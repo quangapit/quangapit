@@ -11,6 +11,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=quangapit&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quangapit&theme=highcontrast&hide_border=false)<br/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=quangapit&bg_color=000000&color=ff0000&line=ff0000&point=ffffff)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quangapit&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
