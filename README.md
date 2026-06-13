@@ -3,7 +3,7 @@
 ## 🌐Socials
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/quangapi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@quangapi) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/quangapi)
 
-# Team
+# 🖥️Team
 [![911 Team](https://img.shields.io/badge/911_TEAM-FF0000?style=for-the-badge&labelColor=000000&color=FF0000)](https://dbusvn.ct.ws)
 
 # 💻Tech Stack
